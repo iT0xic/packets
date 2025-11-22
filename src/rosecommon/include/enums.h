@@ -11,6 +11,7 @@ enum BulletType : uint8_t {
 };
 
 enum RidingItem : uint8_t {
+    OFFSET = 135,
     BODY = 135,
     ENGINE = 136,
     LEGS,
